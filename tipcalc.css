@@ -1,0 +1,42 @@
+.tipcontainer {
+    background-color: #FAF9F8;
+}
+
+.box {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.billamount {
+    background-color: black;
+    width: 50px;
+    display: flex;
+}
+
+.Container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+
+}
+
+.text-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+
+}
+
+button {
+    background-color: aqua;
+    height: 80px;
+    width: 150px;
+    font-style: italic;
+}
